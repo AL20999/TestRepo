@@ -1,3 +1,4 @@
+Howdy
 # Contributing
 
 Thanks for choosing to contribute!
@@ -16,7 +17,7 @@ Start by filing an issue. The existing committers on this project work to reach
 consensus around project direction and issue solutions within issue threads
 (when appropriate).
 
-## Contributor License Agreement
+ Contributor License Agreement
 
 All third-party contributions to this project must be accompanied by a signed contributor
 license agreement. This gives Adobe permission to redistribute your contributions
@@ -38,7 +39,7 @@ submitting a pull request!
 We love contributions from our community! If you'd like to go a step beyond contributor
 and become a committer with full write access and a say in the project, you must
 be invited to the project. The existing committers employ an internal nomination
-process that must reach lazy consensus (silence is approval) before invitations
+process that must reach lazy consensus (silence is approval) before 
 are issued. If you feel you are qualified and want to get more deeply involved,
 feel free to reach out to existing committers to have a conversation about that.
 
